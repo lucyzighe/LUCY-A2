@@ -13,6 +13,6 @@ CONTACT INFORMATION email:lucy.zighe@student.moringaschool.com LinkedIn:Lucy Zig
 LICENCE AND COPYRIGHT INFORMATION Permission is hereby granted ,free of charge,to any person obtaining a copy of this project. Without any restriction,including without installion the rights to to modify and make any changes in the project. The above copyright notice shall be included in all the portions of the project.
 
 
-https://github.com/lucyzighe/LUCY-A2.git
-https://lucyzighe.github.io/LUCY-A2/-LIVE LINK
+https://github.com/lucyzighe/LUCY-A2.git;
+LIVE LINK-https://lucyzighe.github.io/LUCY-A2/
 
